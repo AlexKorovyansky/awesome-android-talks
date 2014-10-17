@@ -6,45 +6,31 @@ A curated list of awesome Android tech talks. For general Android awesome list t
 Talks on English:
 ====
 
-Talks from Google official events (ex. Google I/O, GTAC, AndroidDevelopers, etc)
+Talks from Google or from Google hosted events  
+(ex. [Google I/O](https://www.google.com/events/io), [GTAC](https://developers.google.com/google-test-automation-conference/), [ADiA](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF), etc)
 * one
 * two
 * three
 * four
 * five
 
-Talks from Big Conferences (ex. Droidcons, Devoxx, Twitter Flight, etc)
+Talks from Big Conferences (> 200 attendees)  
+(ex. [Any Droidcon](http://droidcon.com/), [Any Devoxx](http://www.devoxx.com/), [Twitter Flight](https://www.twitterflight.com), etc)
 * one
 * two
 * three
 * four
 * five
 
-Talks from GDG community (ex. GDG DevFests and any other GDG events)
+[//TODO:](http://todogroup.org/) Talks
 * one
 * two
 * three
 * four
 * five
 
-Other talks (anything goes)
-* one
-* two
-* three
-* four
-* five
-
-Talks on Russian:
-===
-
-Talks from Big Conferences (ex. MBLTDev, HappyDev, GDG DevFest Omsk etc)
-* one
-* two
-* three
-* four
-* five
-
-Talks from GDG community (ex. talks @ GDG RU, any other GDG events in Russia)
+Talks from communities, like [GDG community] and [Android User Groups](https://www.google.com/?q=android%20user%20groups)  
+(ex. [GDG DevFests](https://developers.google.com/events/devfest/) and any other [GDG](http://gdg.events/), events of official Android User Groups, etc)
 * one
 * two
 * three
