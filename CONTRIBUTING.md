@@ -29,7 +29,7 @@ Check list:
      
    Examples:  
    1. Jake's talks about Dagger at Devoxx 2013, should be added as  
-      [Architecting Android Applications with Dagger] (https://www.parleys.com/play/529bde2ce4b0e619540cc3ae/chapter23/about) ([Jake Wharton](https://github.com/JakeWharton)). [Video](https://www.parleys.com/play/529bde2ce4b0e619540cc3ae/chapter23/about). [Slides](https://speakerdeck.com/jakewharton/android-apps-with-dagger-devoxx-2013). Nov 14 at [Devoxx.be 2013]()  
+      [Architecting Android Applications with Dagger] (https://www.parleys.com/play/529bde2ce4b0e619540cc3ae/chapter23/about) ([Jake Wharton](https://github.com/JakeWharton)). [Video](https://www.parleys.com/play/529bde2ce4b0e619540cc3ae/chapter23/about). [Slides](https://speakerdeck.com/jakewharton/android-apps-with-dagger-devoxx-2013). Nov 14 @ [Devoxx.be 2013]()  
    2. TBD  
 
 Thank you for your suggestions! You are awesome!
