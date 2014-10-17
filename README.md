@@ -49,6 +49,6 @@ Talks on English:
 
 Have one more awesome talk to add to the list?
 ---
-1. Check contribution guideline.
+1. Check [contribution guideline](https://github.com/AlexKorovyansky/awesome-android-talks/blob/master/CONTRIBUTING.md).
 2. Send Pull Request.
 3. Be awesome!
