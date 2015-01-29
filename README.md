@@ -19,8 +19,9 @@ Talks on English:
 **Talks from Big Conferences (> 200 attendees):**  
 (ex. [Any Droidcon](http://droidcon.com/), [Any Devoxx](http://www.devoxx.com/), [Twitter Flight](https://www.twitterflight.com), etc)
 * [**Reactive Thinking with Rx**](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) ([Georgi Khomeriki](https://github.com/GeorgiKhomeriki))  
-  | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | 13.11.2014 @ [GTAC 2014](https://developers.google.com/google-test-automation-conference/2014/) | #Rx |
-* two
+  | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Rx |
+* [**Functional Reactive Programming with RxJava**](http://youtu.be/_t06LRX0DV0) ([Ben Christensen](https://github.com/benjchristensen))  
+  | [Video](http://youtu.be/_t06LRX0DV0) | [Slides](http://gotocon.com/dl/goto-aar-2013/slides/BenChristensen_FunctionalReactiveProgrammingWithRxJava.pdf) | @ [GOTO Aarhus 2013](http://gotocon.com/aarhus-2013/) | #Rx |
 * three
 * four
 * five
