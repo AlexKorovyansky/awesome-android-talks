@@ -18,10 +18,12 @@ Talks on English:
 
 **Talks from Big Conferences (> 200 attendees):**  
 (ex. [Any Droidcon](http://droidcon.com/), [Any Devoxx](http://www.devoxx.com/), [Twitter Flight](https://www.twitterflight.com), etc)
-* [**Reactive Thinking with Rx**](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) ([Georgi Khomeriki](https://github.com/GeorgiKhomeriki))  
-  | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Rx |
 * [**Functional Reactive Programming with RxJava**](http://youtu.be/_t06LRX0DV0) ([Ben Christensen](https://github.com/benjchristensen))  
   | [Video](http://youtu.be/_t06LRX0DV0) | [Slides](http://gotocon.com/dl/goto-aar-2013/slides/BenChristensen_FunctionalReactiveProgrammingWithRxJava.pdf) | @ [GOTO Aarhus 2013](http://gotocon.com/aarhus-2013/) | #Rx |
+* [**Reactive Thinking with Rx**](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) ([Georgi Khomeriki](https://github.com/GeorgiKhomeriki))  
+  | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Rx |
+* [**The Future of Dependency Injection with Dagger 2**](https://www.parleys.com/play/5471cdd1e4b065ebcfa1d557/chapter0/about) ([JakeWharton](https://github.com/JakeWharton))  
+  | [Video](https://www.parleys.com/play/5471cdd1e4b065ebcfa1d557/chapter0/about) | [Slides](https://speakerdeck.com/jakewharton/dependency-injection-with-dagger-2-devoxx-2014) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Dagger #DI |
 * three
 * four
 * five
