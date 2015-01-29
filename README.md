@@ -18,7 +18,8 @@ Talks on English:
 
 **Talks from Big Conferences (> 200 attendees):**  
 (ex. [Any Droidcon](http://droidcon.com/), [Any Devoxx](http://www.devoxx.com/), [Twitter Flight](https://www.twitterflight.com), etc)
-* one
+* [**Reactive Thinking with Rx**](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) ([Georgi Khomeriki](https://github.com/GeorgiKhomeriki))  
+  | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | 13.11.2014 @ [GTAC 2014](https://developers.google.com/google-test-automation-conference/2014/) | #Rx |
 * two
 * three
 * four
