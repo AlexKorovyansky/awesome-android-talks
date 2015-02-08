@@ -24,7 +24,8 @@ Talks on English:
   | [Video](https://www.parleys.com/play/546f75c7e4b065ebcfa1d51c/chapter0/about) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Rx |
 * [**The Future of Dependency Injection with Dagger 2**](https://www.parleys.com/play/5471cdd1e4b065ebcfa1d557/chapter0/about) ([JakeWharton](https://github.com/JakeWharton))  
   | [Video](https://www.parleys.com/play/5471cdd1e4b065ebcfa1d557/chapter0/about) | [Slides](https://speakerdeck.com/jakewharton/dependency-injection-with-dagger-2-devoxx-2014) | @ [Devoxx Belgium 2014](http://www.devoxx.be/) | #Dagger #DI |
-* three
+* [**Dive into the Gradle-based Android Build System**](http://www.youtube.com/watch?v=popb1n1_fA8) ([Xavier Ducrohet](https://github.com/ducrohet), [Hans Dockter](https://github.com/hansd))  
+  | [Video](http://www.youtube.com/watch?v=popb1n1_fA8) | @ [AnDevCon November 2014](http://www.andevcon.com/) | #Gradle |
 * four
 * five
 
